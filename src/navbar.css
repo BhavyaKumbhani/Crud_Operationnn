@@ -1,0 +1,25 @@
+.wrapper {
+    background-color: rgb(47, 108, 179);
+    height: 50px;
+    color: #ffff;
+    text-align: left;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    color: white;
+    float: right;
+    text-decoration: none;
+    display: flex;
+    justify-content: end;
+}
+
+p {
+    color: rgb(7, 6, 7);
+    margin: 0;
+    display: flex;
+    padding: 10px;
+    justify-content: right;
+}
